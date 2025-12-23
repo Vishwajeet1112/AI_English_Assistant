@@ -1,0 +1,7 @@
+{
+  "name": "AI English Learning Assistant",
+  "description": "An AI-powered assistant to help users learn English, tailored to their proficiency level—from beginners to advanced students and working professionals. Features include an interactive chatbot, pronunciation checker, vocabulary builder, and level-specific exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
